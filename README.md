@@ -14,10 +14,11 @@ Before getting started, ensure you have Node.js and npm installed on your machin
 
 ```bash
 # Clone the repository
-git clone https://github.com/MuhammadShakkeer2030/flipkart_clone.git
+git clone https: https://github.com/AbhishekRawat08/EcommerceApp.git
 
 # Navigate to the project directory
-cd flikart
+cd EcommerceApp
+
 
 # Install dependencies
 npm install
@@ -27,7 +28,7 @@ npm install
 
 To run the development server:
 
-```bash
+bash
 npm run dev
 ```
 
